@@ -1,0 +1,167 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: Modal should render 1`] = `
+.c0 {
+  position: fixed;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  padding: 1rem;
+  background-color: rgba(0,0,0,0.5);
+  box-sizing: border-box;
+  z-index: 20;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 100%;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  background-color: #FFF;
+  box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.125);
+}
+
+.c2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.c3 {
+  margin: 0.5rem 0 1rem 0;
+  text-align: center;
+}
+
+.c4 {
+  padding: 1rem;
+  background-color: #E72934;
+  border: 0;
+  color: #FFF;
+  border-radius: 0.5rem;
+  opacity: 1;
+}
+
+<div
+  className="c0"
+  onClick={[Function]}
+>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+    />
+    <div
+      className="c3"
+    />
+    <button
+      className="c4"
+      loading="false"
+      onClick={[Function]}
+    />
+  </div>
+</div>
+`;
+
+exports[`Component: Modal should render when modal is true 1`] = `
+.c0 {
+  position: fixed;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  padding: 1rem;
+  background-color: rgba(0,0,0,0.5);
+  box-sizing: border-box;
+  z-index: 20;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 100%;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  background-color: #FFF;
+  box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.125);
+}
+
+.c2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.c3 {
+  margin: 0.5rem 0 1rem 0;
+  text-align: center;
+}
+
+.c4 {
+  padding: 1rem;
+  background-color: #E72934;
+  border: 0;
+  color: #FFF;
+  border-radius: 0.5rem;
+  opacity: 1;
+}
+
+<div
+  className="c0"
+  onClick={[Function]}
+>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+    />
+    <div
+      className="c3"
+    />
+    <button
+      className="c4"
+      loading="false"
+      onClick={[Function]}
+    />
+  </div>
+</div>
+`;
